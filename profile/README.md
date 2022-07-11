@@ -5,3 +5,6 @@
 - [Dan66ika77](https://github.com/Danika6677)
 - [Coma112](https://github.com/Coma112)
 - [SilkyFalcon](github.com/silkyfalcon)
+
+## `Artist`
+- [Majozi](https://github.com/Highttie)
